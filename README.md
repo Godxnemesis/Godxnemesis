@@ -12,7 +12,7 @@
 
 🎓 Final Year Student
 
-💻 Currently learning **Frontend Development**
+💻 Currently learning **Full Stack Development**
 
 🎨 Graphic designer experienced with
 **Photoshop • Illustrator • Canva**
