@@ -1,2 +1,151 @@
 # README
-HELLLO I'm SAVYA
+<h1 align="center">Hi 👋 I'm Savya Shah</h1>
+<h3 align="center">🚀 Future Frontend Developer | 🎨 Graphic Designer | 💡 Tech Builder</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+In+Progress;Building+Creative+Web+Projects;Graphic+Designer;Learning+Something+New+Everyday" />
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 Final Year Student
+
+💻 Currently learning **Frontend Development**
+
+🎨 Graphic designer experienced with
+**Photoshop • Illustrator • Canva**
+
+🧠 Interested in
+
+• Web Development
+• AI Tools & Automation
+• Startup Ideas
+• Creative Technology
+
+🎮 Gamer who enjoys **tech, performance optimization, and gaming hardware**
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Programming
+
+![HTML](https://skillicons.dev/icons?i=html)
+
+![CSS](https://skillicons.dev/icons?i=css)
+
+![javascript](https://skillicons.dev/icons?i=javascript)
+
+---
+
+### ⚙️ Tools
+
+![vscode](https://skillicons.dev/icons?i=vscode)
+
+![git](https://skillicons.dev/icons?i=git)
+
+![firebase](https://skillicons.dev/icons?i=firebase)
+
+![mysql](https://skillicons.dev/icons?i=mysql)
+
+---
+
+### 🎨 Design
+
+![photoshop](https://skillicons.dev/icons?i=ps)
+
+![illustrator](https://skillicons.dev/icons?i=ai)
+
+---
+
+# 📌 Featured Projects
+
+### 🌍 Global Payment Website
+
+A hybrid platform designed to make **international transactions faster and cheaper** than existing solutions.
+
+### 👕 Fabric Visualization Tool
+
+Upload a **fabric image** and preview how it would look when stitched into different outfits.
+
+### 📈 Stock Market Online Game
+
+A **multiplayer turn-based board game** where players trade shares and control companies.
+
+### 🤖 Anime Card Discord Bot
+
+A collectible card bot where users collect **bronze, silver, and gold rarity anime cards**.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+⚡ Advanced HTML
+⚡ CSS Layouts & Animations
+⚡ JavaScript
+⚡ Building Real Projects
+
+---
+
+# 🎯 2026 Goals
+
+🚀 Build **10+ real world projects**
+
+💻 Become a **professional frontend developer**
+
+🎨 Create a **high-level design portfolio**
+
+🌍 Launch a **startup or tech product**
+
+---
+
+# 📫 Connect With Me
+
+GitHub
+https://github.com/YOUR_USERNAME
+
+Portfolio
+Coming Soon 🚀
+
+---
+
+⭐ *Learning by building — one project at a time.*
+
