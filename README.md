@@ -1,6 +1,6 @@
 # README
 <h1 align="center">Hi 👋 I'm A_C_E</h1>
-<h3 align="center">🚀 Future Frontend Developer | 🎨 Graphic Designer | 💡 Tech Builder</h3>
+<h3 align="center">🚀 Future Full Stack Developer | 🎨 Graphic Designer | 💡 Tech Builder</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+In+Progress;Building+Creative+Web+Projects;Graphic+Designer;Learning+Something+New+Everyday" />
@@ -50,21 +50,13 @@
 
 # 📌 Featured Projects
 
-### 🌍 Global Payment Website
-
-A hybrid platform designed to make **international transactions faster and cheaper** than existing solutions.
-
 ### 👕 Fabric Visualization Tool
 
 Upload a **fabric image** and preview how it would look when stitched into different outfits.
 
-### 📈 Stock Market Online Game
+### 🍔 Meal Craft
 
-A **multiplayer turn-based board game** where players trade shares and control companies.
-
-### 🤖 Anime Card Discord Bot
-
-A collectible card bot where users collect **bronze, silver, and gold rarity anime cards**.
+A web based application where **User can build their own meal.**
 
 ---
 
@@ -99,6 +91,8 @@ A collectible card bot where users collect **bronze, silver, and gold rarity ani
 # 🧠 Currently Learning
 
 ⚡ Advanced HTML
+⚡ Advanced Java
+⚡ Advanced Python
 ⚡ CSS Layouts & Animations
 ⚡ JavaScript
 ⚡ Building Real Projects
@@ -109,7 +103,7 @@ A collectible card bot where users collect **bronze, silver, and gold rarity ani
 
 🚀 Build **10+ real world projects**
 
-💻 Become a **professional frontend developer**
+💻 Become a **professional fullstack developer**
 
 🎨 Create a **high-level design portfolio**
 
