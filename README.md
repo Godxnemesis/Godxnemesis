@@ -1,2 +1,2 @@
-# READmE
+# README
 HELLLO I'm SAVYA
