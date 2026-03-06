@@ -17,10 +17,10 @@
 **Photoshop • Illustrator • Canva**
 
 🧠 Interested in
-• Web Development
+** Web Development
 • AI Tools & Automation
 • Startup Ideas
-• Creative Technology
+• Creative Technology**
 
 🎮 Gamer who enjoys **tech, performance optimization, and gaming hardware**
 
